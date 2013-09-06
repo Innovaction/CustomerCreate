@@ -1,0 +1,38 @@
+#MainPanel {
+    color:#666666;
+    font-family:Verdana;
+    font-size:12px;
+    line-height:14px;
+
+    }
+
+.container {
+margin:0px !important;
+padding:0px !important;
+width:100% !important;
+}
+
+.form {
+    width:100px !important;
+}
+.form2 {
+    
+	height: auto !important;
+	width: auto !important;
+	
+}
+
+.dnnFormError {
+    color: #fff !important;
+    background: url(../../images/errorbg.gif) no-repeat left center;
+    text-shadow: 0px 1px 1px #000;
+    padding: 5px 20px;
+}
+
+
+.dnnFormWarning {
+    background: #feffce url(../../images/warning-icn.png) no-repeat 10px center;
+    border: 2px #cdb21f solid;
+    color: #41370C;
+    text-shadow: 0px 1px 1px #fff;
+}
